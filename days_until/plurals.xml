@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <plurals name="years_until">
+        <item quantity="one">1 year until</item>
+        <item quantity="other">%1$d years until</item>
+    </plurals>
+
+    <plurals name="months_until">
+        <item quantity="one">1 month until</item>
+        <item quantity="other">%1$d months until</item>
+    </plurals>
+
+    <plurals name="days_until">
+        <item quantity="one">1 day until</item>
+        <item quantity="other">%1$d days until</item>
+    </plurals>
+
+    <plurals name="hours_until">
+        <item quantity="one">1 hour until</item>
+        <item quantity="other">%1$d hours until</item>
+    </plurals>
+
+    <plurals name="minutes_until">
+        <item quantity="one">1 minute until</item>
+        <item quantity="other">%1$d minutes until</item>
+    </plurals>
+
+    <plurals name="seconds_until">
+        <item quantity="one">1 second until</item>
+        <item quantity="other">%1$d seconds until</item>
+    </plurals>
+</resources>
